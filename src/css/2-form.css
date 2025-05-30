@@ -18,6 +18,7 @@
   height: 40px;
   border: 1px solid #808080;
   border-radius: 4px;
+  font-size: 16px;
 }
 
 .feedback-form textarea {
@@ -26,6 +27,7 @@
   border: 1px solid #808080;
   border-radius: 4px;
   resize: none;
+  font-size: 16px;
 }
 
 button {
